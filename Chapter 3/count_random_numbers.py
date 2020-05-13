@@ -8,4 +8,6 @@ for i in range(len(N-1)):
     if N[i] == 6:
         M += 1
 
+print(M/N)
 print(M)
+print(N)
