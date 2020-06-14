@@ -1,0 +1,6 @@
+Area = lambda width, lenght: width*lenght
+
+b = float(input('Type the rectangle widht: '))
+c = float(input('Type the rectangle lenght: '))
+
+print(f'The rectangle area is {Area(b,c)}cm²')
